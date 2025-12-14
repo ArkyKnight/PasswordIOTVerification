@@ -18,6 +18,9 @@ First we start the nodejs server that has all the settings for the hash verifica
 - MQTT Broker Mosquitto comunication.
 - NodeJs server implementation.
 - Hardware usage IOT (LCD Display, 4x4 Keypad)
+- JavaScript.
+- Html.
+- Json Usage.
 
 ## Tonny conection:
 <img width="998" height="120" alt="image" src="https://github.com/user-attachments/assets/d295c9e9-5928-4503-a9af-99a9d08c21c6" />
