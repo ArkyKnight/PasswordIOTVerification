@@ -26,7 +26,8 @@ First we start the nodejs server that has all the settings for the hash verifica
 <img width="998" height="120" alt="image" src="https://github.com/user-attachments/assets/d295c9e9-5928-4503-a9af-99a9d08c21c6" />
 
 ## Node Js conection:
-<img width="528" height="118" alt="image" src="https://github.com/user-attachments/assets/000cdf52-015f-4b5d-aa46-ba4d7ad9b449" />
+<img width="998" height="120" alt="526328331-d295c9e9-5928-4503-a9af-99a9d08c21c6" src="https://github.com/user-attachments/assets/25b7e227-9f96-46ef-b16b-8548f619f9da" />
+
 
 ## Simple Web Page: 
 <img width="612" height="406" alt="image" src="https://github.com/user-attachments/assets/6e7839ce-f486-4ed4-bcc3-200137f793fc" />
