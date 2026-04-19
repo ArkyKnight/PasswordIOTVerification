@@ -23,7 +23,7 @@ First we start the nodejs server that has all the settings for the hash verifica
 - Json Usage.
 
 ## Tonny conection:
-<img width="998" height="120" alt="image" src="https://github.com/user-attachments/assets/d295c9e9-5928-4503-a9af-99a9d08c21c6" />
+<img width="998" height="120" alt="526328331-d295c9e9-5928-4503-a9af-99a9d08c21c6" src="https://github.com/user-attachments/assets/8251a7b5-93a7-4cc8-9329-6d1192173232" />
 
 ## Node Js conection:
 <img width="998" height="120" alt="526328331-d295c9e9-5928-4503-a9af-99a9d08c21c6" src="https://github.com/user-attachments/assets/25b7e227-9f96-46ef-b16b-8548f619f9da" />
