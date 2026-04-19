@@ -6,8 +6,8 @@ from umqtt.simple import MQTTClient
 import uhashlib
 
 
-WIFI_SSID = "INFINITUM0D9E_2.4"
-WIFI_PASS = "Valeria2494"
+WIFI_SSID = "RED"
+WIFI_PASS = "CONTRASEÑA"
 
 def conectar_wifi():
     wlan = network.WLAN(network.STA_IF)
